@@ -4,10 +4,10 @@
 [![dpavon-g's 42 stats](https://badge42.herokuapp.com/api/stats/dpavon-g?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 |  ##  |			Name				| Result |
 |:----:|:----------------:|:------:|
-|  00  |libft							          | ![dpavon-g's libft Score](https://badge42.herokuapp.com/api/project/rbeltran/Libft) |
-|  01  |netwhat     			          | ![dpavon-g's libft Score](https://badge42.herokuapp.com/api/project/rbeltran/netwhat) |
-|  02  |get_next_line			          | ![dpavon-g's libft Score](https://badge42.herokuapp.com/api/project/rbeltran/get_next_line) |
-|  03  |printf        		          | ![dpavon-g's libft Score](https://badge42.herokuapp.com/api/project/rbeltran/ft_printf) |
+|  00  |libft							          | ![dpavon-g's libft Score](https://badge42.herokuapp.com/api/project/dpavon-g/Libft) |
+|  01  |netwhat     			          | ![dpavon-g's libft Score](https://badge42.herokuapp.com/api/project/dpavon-g/netwhat) |
+|  02  |get_next_line			          | ![dpavon-g's libft Score](https://badge42.herokuapp.com/api/project/dpavon-g/get_next_line) |
+|  03  |printf        		          | ![dpavon-g's libft Score](https://badge42.herokuapp.com/api/project/dpavon-g/ft_printf) |
 
 
 ---
