@@ -5,9 +5,9 @@
 |  ##  |			Name				| Result |
 |:----:|:----------------:|:------:|
 |  00  |libft							          | ![dpavon-g's libft Score](https://badge42.herokuapp.com/api/project/dpavon-g/Libft) |
-|  01  |netwhat     			          | ![dpavon-g's libft Score](https://badge42.herokuapp.com/api/project/dpavon-g/netwhat) |
-|  02  |get_next_line			          | ![dpavon-g's libft Score](https://badge42.herokuapp.com/api/project/dpavon-g/get_next_line) |
-|  03  |printf        		          | ![dpavon-g's libft Score](https://badge42.herokuapp.com/api/project/dpavon-g/ft_printf) |
+|  01  |netwhat     			          | ![dpavon-g's netwhat Score](https://badge42.herokuapp.com/api/project/dpavon-g/netwhat) |
+|  02  |get_next_line			          | ![dpavon-g's get_next_line Score](https://badge42.herokuapp.com/api/project/dpavon-g/get_next_line) |
+|  03  |printf        		          | ![dpavon-g's printf Score](https://badge42.herokuapp.com/api/project/dpavon-g/ft_printf) |
 
 
 ---
