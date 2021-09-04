@@ -9,7 +9,7 @@
 |  02  |get_next_line			          | ![dpavon-g's get_next_line Score](https://badge42.herokuapp.com/api/project/dpavon-g/get_next_line) |
 |  03  |printf        		          | ![dpavon-g's printf Score](https://badge42.herokuapp.com/api/project/dpavon-g/ft_printf) |
 |  04  |Born2BeRoot       		      | ![dpavon-g's printf Score](https://badge42.herokuapp.com/api/project/dpavon-g/Born2beroot) |
-|  05  |MiniTalk    		            | ![dpavon-g's printf Score](https://badge42.herokuapp.com/api/project/dpavon-g/Minitalk) |
+|  05  |MiniTalk    		            | ![dpavon-g's printf Score](https://badge42.herokuapp.com/api/project/dpavon-g/minitalk) |
 
 
 ---
