@@ -11,9 +11,7 @@
 |  04  |Born2BeRoot       		     | ![dpavon-g's printf Score](https://badge42.herokuapp.com/api/project/dpavon-g/Born2beroot) |
 |  05  |MiniTalk    		           | ![dpavon-g's printf Score](https://badge42.herokuapp.com/api/project/dpavon-g/minitalk) |
 |  06  |Push_Swap    		           | ![dpavon-g's printf Score](https://badge42.herokuapp.com/api/project/dpavon-g/push_swap) |
-|  07  |Push_Swap    		           | ![dpavon-g's printf Score](https://badge42.herokuapp.com/api/project/dpavon-g/push_swap) |
-|  08  |FDF    		                 | ![dpavon-g's printf Score](https://badge42.herokuapp.com/api/project/dpavon-g/FdF) |
-|  09  |Exam_Rank    		           | ![dpavon-g's printf Score](https://badge42.herokuapp.com/api/project/dpavon-g/exam-rank-02) |
+|  07  |FDF    		                 | ![dpavon-g's printf Score](https://badge42.herokuapp.com/api/project/dpavon-g/FdF) |
 
 ---
 <!--
