@@ -1,6 +1,7 @@
 ### Hi there 👋
 # <p scolor="silver"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid Telefónica Student </p>
 
+<!--
 [![dpavon-g's 42 stats](https://badge42.herokuapp.com/api/stats/dpavon-g?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 |  ##  |			Name				| Result |
 |:----:|:----------------:|:------:|
@@ -14,7 +15,7 @@
 |  07  |FDF    		                 | ![dpavon-g's printf Score](https://badge42.herokuapp.com/api/project/dpavon-g/FdF) |
 
 ---
-<!--
+
 **flakkpei/flakkpei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
