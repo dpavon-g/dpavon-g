@@ -1,7 +1,7 @@
 # <p scolor="silver"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid Telefónica Student </p>
 <h1 align="center">Hi 👋, I'm Dani</h1>
 <h3 align="center">A passionate software developer from Málaga, Spain</h3>
-
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 - 🌱 I’m currently learning **cybersecurity**
 
 <p align="left">
