@@ -10,7 +10,7 @@
 Before studying at the <a href="https://www.42network.org/" target="_blank">42Network</a> in Madrid, Spain, I worked as a computer technician at the Technology Park of Málaga, Spain.
 I really enjoy writing articles on <a href="https://medium.com/@pavon" target="_blank">my Medium profile</a>.
 
-<hr>
+<br>
 
 <p align="center">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -29,8 +29,6 @@ I really enjoy writing articles on <a href="https://medium.com/@pavon" target="_
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpavon-g&label=Profile%20views&color=0e75b6&style=flat" alt="dpavon-g" /> </p>
 
-<br>
-<hr>
 
 
 
