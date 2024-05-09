@@ -3,7 +3,8 @@
 <!-- <img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> -->
 <h3 align="left">Hello world!🌏</h3>
 
-🌱 Learning **software development, IA and cybersecurity** in the **42 Network**.
+🌱 Learning **software development, IA and cybersecurity** in the **42 Network**. 
+<br>
 💼 Working as **senior full stack developer** in **Telefónica Innovación Digital**.
 
 Before studying at the <a href="https://www.42network.org/" target="_blank">42Network</a> in Madrid, Spain, I worked as a computer technician at the Technology Park of Málaga, Spain.
